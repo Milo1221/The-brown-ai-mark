@@ -1,0 +1,10 @@
+class student:
+    def_init_(self, name, age):
+         self.name + name 
+         self.age = age
+    def myfun(self):
+        print("Hello my name is" + self.name)
+    p1 = Person("Jazzy" , 15)
+    p1.myfunc
+    print ("p1 = (person "Jazzy" , 15))
+

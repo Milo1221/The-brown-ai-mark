@@ -1,1 +1,0 @@
-Program has all number of minutes written down, program asks user what number of hours, user says number, program takes number that user said multiplies by 60 then  programs its back.
